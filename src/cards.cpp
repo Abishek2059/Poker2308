@@ -57,7 +57,7 @@ string Card::getCard() const {
 void Deck::createOrResetDeck(bool randomized){
     for(int i = 0; i < 4; i++){
         for(int j = 0; j < 13; j++){
-            deck.push_back(Card(SUITS[i], RANKS[j]));
+            cards.push_back(Card(SUITS[i], RANKS[j]));
         }
     }
     if(randomized){

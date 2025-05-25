@@ -1,3 +1,0 @@
-C:/Users/abishek/OneDrive/Desktop/PokerProject/build/CMakeFiles/Poker.dir
-C:/Users/abishek/OneDrive/Desktop/PokerProject/build/CMakeFiles/edit_cache.dir
-C:/Users/abishek/OneDrive/Desktop/PokerProject/build/CMakeFiles/rebuild_cache.dir
